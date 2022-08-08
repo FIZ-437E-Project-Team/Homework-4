@@ -1,6 +1,8 @@
 # Homework-4: **Cat-Dog-Panda**
 
+In this repo, it is aimed to compare CNN and MLP algorithms by using a balanced number of cat, dog and panda image data sets. Keras was used for the CNN algorithm.
 
+Bu repoda dengeli sayıda kedi, köpek ve panda görüntü veri seti kullanılarak CNN ve MLP algoritmalarının karşılatırılması amaçlanmıştır. CNN algoritması için keras kullanılmıştır.
 
 
 Group-8 Members: <br><br>
